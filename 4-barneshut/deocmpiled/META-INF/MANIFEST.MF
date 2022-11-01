@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: parprog1-barneshut
+Implementation-Version: 0.1.0-SNAPSHOT
+Specification-Vendor: parprog1-barneshut
+Specification-Title: parprog1-barneshut
+Implementation-Vendor-Id: parprog1-barneshut
+Specification-Version: 0.1.0-SNAPSHOT
+Implementation-Vendor: parprog1-barneshut
+
